@@ -15,9 +15,7 @@ function Comp(){
 </Comp>    
 ```
 
-{% hint style="info" %}
-转换成ES5 
-{% endhint %}
+转成ES5
 
 ```jsx
 "use strict";
